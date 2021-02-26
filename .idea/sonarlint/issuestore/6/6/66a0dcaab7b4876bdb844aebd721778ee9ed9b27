@@ -1,0 +1,14 @@
+
+_
+java:S2259I"BA "NullPointerException" could be thrown; "iter" is nullable here.(ğÒ¬¨8€İÕ„ü.
+_
+java:S2259{"BA "NullPointerException" could be thrown; "iter" is nullable here.(ˆ¨‰é8ì°ïšü.
+T	java:S106%"9Replace this use of System.out or System.err by a logger.(âäÛp8Ï÷Óü.
+T	java:S106-"9Replace this use of System.out or System.err by a logger.(âäÛp8„’Ôü.
+d
+java:S2259M"BA "NullPointerException" could be thrown; "iter" is nullable here.(Ôñúûÿÿÿÿ8€İÕ„ü.
+z
+java:S1488"\Immediately return this expression instead of assigning it to the temporary variable "head".(§û±°8šÎ¤Ôü.
+_
+java:S2259y"BA "NullPointerException" could be thrown; "iter" is nullable here.(ğÒ¬¨8ì°ïšü.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¢ÊÏ†8»«äü.

@@ -1,0 +1,14 @@
+
+}
+java:S1488	"[Immediately return this expression instead of assigning it to the temporary variable "sum".(ù‰ŸÎûÿÿÿÿ8Î†ªà.
+U	java:S106A"9Replace this use of System.out or System.err by a logger.(¥¿â÷8Ñ ªùá.
+U	java:S1063"9Replace this use of System.out or System.err by a logger.(†™ñ‹8Áà²øá.
+}
+java:S1488"[Immediately return this expression instead of assigning it to the temporary variable "nth".(à÷Š·ùÿÿÿÿ8ŒµÑªà.
+U
+java:S1197"8Move the array designator from the variable to the type.(çëß8©›”«à.
+Z	java:S1067"9Replace this use of System.out or System.err by a logger.(¬Î‰Àøÿÿÿÿ8½¨ùá.
+Z	java:S106+"9Replace this use of System.out or System.err by a logger.(ÅŠ€¬ÿÿÿÿÿ8†¶øá.
+Z	java:S106<"9Replace this use of System.out or System.err by a logger.(ÕˆÁ‘ûÿÿÿÿ8Ö‚ïøá.
+x
+java:S1488E"[Immediately return this expression instead of assigning it to the temporary variable "mul".(ú•ÏØ8íŸ„ùá.
